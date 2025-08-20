@@ -3,8 +3,8 @@
 ###
 
 <div align="Center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasRibeirodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasRibeirodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="115" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=javalideguerra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javalideguerra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="115" alt="languages graph"  />
 </div>
 
 ###
@@ -52,10 +52,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LucasRibeirodev/LucasRibeirodev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/javalideguerra/javalideguerra/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="Center" src="https://profile-counter.glitch.me/LucasRibeirodev/count.svg?"  />
+<img align="Center" src="https://profile-counter.glitch.me/javalideguerra/count.svg?"  />
 
 ###
