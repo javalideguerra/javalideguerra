@@ -49,3 +49,13 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LucasRibeirodev/LucasRibeirodev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="Center" src="https://profile-counter.glitch.me/LucasRibeirodev/count.svg?"  />
+
+###
