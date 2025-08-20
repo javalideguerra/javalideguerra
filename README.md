@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/javalideguerra/javalideguerra/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/javalideguerra/javalideguerra/output/snake.svg" alt="Snake animation" />
 
 ###
